@@ -12,6 +12,7 @@ DCActionButtonsController provides an easy way to create view controllers to sit
 To use, add buttons using `addButtonWithTitle:style:style:target:action:`.  The buttons are GradientButtons by Jeff LaMarche, which you'll need to download from here: [https://github.com/baron/iPhone-Gradient-Buttons](https://github.com/baron/iPhone-Gradient-Buttons).
 
 There are several button styles to choose from:
+
 * GradientButtonStyleAlert
 * GradientButtonStyleBlack
 * GradientButtonStyleBlackActionSheet
