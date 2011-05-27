@@ -25,4 +25,4 @@ There are several button styles to choose from:
 License
 -------
 
-Made available under the MIT License.  We'd love to know if you find this code useful or use it in your app: contact at domestic cat.com.au.
+Made available under the MIT License.  We'd love to know if you find this code useful or use it in your app: contact at domesticcat.com.au.
